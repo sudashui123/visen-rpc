@@ -1,0 +1,4 @@
+# Project exclude paths
+/consumer/target/
+/visen-rpc-core/target/
+/visen-rpc-easy/target/
